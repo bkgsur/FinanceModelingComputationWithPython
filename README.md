@@ -1,1 +1,1 @@
-# FinanceModelingComputation
+Mathematical Modeling & Computation in Finance
